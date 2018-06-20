@@ -10,7 +10,7 @@
          <varinfo type="tag" data="Slow period"/>
          <varinfo type="desc" data="default period (milliseconds) - that&apos;s the period used in &apos;slow&apos; mode"/>
          </var>
-         <var name="bFast" type="DINT">
+         <var name="bFast" type="BOOL">
          <varinfo type="tag" data="Fast command"/>
          <varinfo type="desc" data="make it faster"/>
          </var>
