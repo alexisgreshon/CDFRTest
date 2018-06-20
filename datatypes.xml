@@ -11,9 +11,5 @@
       <enumval value="V0"/>
       <enumval value="V1"/>
       </type>
-      <type name="TypeEnum2" kind="ENUM">
-      <enumval value="V0"/>
-      <enumval value="V1"/>
-      </type>
    </types>
 </K5project>
