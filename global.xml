@@ -6,7 +6,7 @@
          <varinfo type="tag" data="Main command"/>
          <varinfo type="desc" data="main activation command"/>
          </var>
-         <var name="tPerio" type="DINT" init="1000">
+         <var name="tPerio" type="BOOL" init="1000">
          <varinfo type="tag" data="Slow period"/>
          <varinfo type="desc" data="default period (milliseconds) - that&apos;s the period used in &apos;slow&apos; mode"/>
          </var>
